@@ -8,7 +8,7 @@ public class Main {
 	// write your code here
         Random rand = new Random();
 
-        int place = rand.nextInt(201);
+        int place = rand.nextInt(200);
         int clicker = place;
 
         System.out.println("Take your number " + clicker + " and join the line.");

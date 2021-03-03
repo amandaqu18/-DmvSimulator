@@ -1,28 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="acfee493-0c9d-42ba-acba-51130300bb66" name="Default Changelist" comment="I did that">
-      <change afterPath="$PROJECT_DIR$/-DmvSimulator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/-DmvSimulator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Git" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/-DmvSimulator/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="acfee493-0c9d-42ba-acba-51130300bb66" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="setup-simulator" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pGX3MMIH4sxKuDbrOWgwytLzSa" />
@@ -71,26 +85,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614810201247</updated>
-      <workItem from="1614810202421" duration="4575000" />
+      <workItem from="1614810202421" duration="4999000" />
     </task>
+    <task id="LOCAL-00001" summary="I did that">
+      <created>1614814791541</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614814791542</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I did that" />
     <option name="LAST_COMMIT_MESSAGE" value="I did that" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="25" key="CommitChangelistDialog2" timestamp="1614814751782">
+    <state x="304" y="25" key="CommitChangelistDialog2" timestamp="1614814791202">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
-    <state x="304" y="25" key="CommitChangelistDialog2/0.25.1440.816@0.25.1440.816" timestamp="1614814751782" />
-    <state x="144" y="93" key="DiffContextDialog" timestamp="1614813218318">
+    <state x="304" y="25" key="CommitChangelistDialog2/0.25.1440.816@0.25.1440.816" timestamp="1614814791202" />
+    <state x="144" y="93" key="DiffContextDialog" timestamp="1614814806180">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
-    <state x="144" y="93" key="DiffContextDialog/0.25.1440.816@0.25.1440.816" timestamp="1614813218318" />
+    <state x="144" y="93" key="DiffContextDialog/0.25.1440.816@0.25.1440.816" timestamp="1614814806180" />
     <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1614814751912">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
@@ -107,5 +152,9 @@
       <screen x="0" y="25" width="1440" height="816" />
     </state>
     <state width="1398" height="207" key="GridCell.Tab.0.right/0.25.1440.816@0.25.1440.816" timestamp="1614814751912" />
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2" timestamp="1614815065300">
+      <screen x="0" y="25" width="1440" height="816" />
+    </state>
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.25.1440.816@0.25.1440.816" timestamp="1614815065300" />
   </component>
 </project>
