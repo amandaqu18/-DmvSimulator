@@ -22,7 +22,7 @@ public class Main {
             System.out.println("I am sorry but you do not have the right documents for the license.");
 
             if(clicker == place){
-                System.out.println("You have the right documentation. Thank you  ");
+                System.out.println("You have the right documentation person. Thank you  ");
                 break;
             }
 
